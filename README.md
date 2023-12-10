@@ -1,3 +1,4 @@
+![film-pictures-cpqpogsfncw6hd8x](https://github.com/nittoowiti/DSProject1/assets/135462765/7a96295e-349b-41a4-b5ba-8bd94a5004ad)
 # DSProject1
 # phase1-project
 Microsoft Movie Studio EDA Project
