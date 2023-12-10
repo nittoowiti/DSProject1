@@ -38,8 +38,6 @@ scripts/: Python scripts for specific functions or tasks.
 visualizations/: Saved plots and visualizations.
 
 
-Creating a README file for an Exploratory Data Analysis (EDA) project on Microsoft's new movie studio can help provide essential information to users, collaborators, or anyone interested in your project. A good README typically includes details on project overview, data sources, analysis methods, and any important findings. Below is an example template you can use as a starting point:
-
 Microsoft Movie Studio EDA Project
 Overview
 This project aims to perform an Exploratory Data Analysis (EDA) on data related to Microsoft's new movie studio. The analysis is focused on understanding key insights and trends in the movie industry, identifying potential opportunities, and providing data-driven recommendations for Microsoft's entry into the market.
