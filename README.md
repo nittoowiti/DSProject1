@@ -25,7 +25,7 @@ The EDA is conducted using Python programming language and popular data science 
 
 Pandas for data manipulation and analysis.
 Matplotlib and Seaborn for data visualization.
-[Any other libraries used]
+
 The analysis includes but is not limited to:
 
 Data cleaning and preprocessing.
