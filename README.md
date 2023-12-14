@@ -24,7 +24,7 @@ The project utilizes datasets from:
 
 This dataset contains information about a selection of movies, including their title, release year, genre, IMDb rating, and worldwide gross income.
 
-Analysis Methods
+#Analysis Methods
 
 The EDA is conducted using Python programming language and popular data science libraries, including:
 
@@ -32,16 +32,14 @@ Pandas for data manipulation and analysis.
 
 Matplotlib and Seaborn for data visualization.
 
-The analysis includes but is not limited to:
-
+#The analysis includes but is not limited to:
 Data cleaning and preprocessing.
 
 Exploratory visualizations to identify trends and patterns.
 
 Descriptive statistics to summarize key metrics.
 
-Project Structure
-
+#Project Structure
 data/: Folder containing the raw and processed datasets.
 
 notebooks/: Jupyter notebooks used for data analysis.
