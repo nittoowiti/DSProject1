@@ -5,6 +5,7 @@
 Authored By : Benitto Otieno
 
 Overview
+
 This project aims to perform an Exploratory Data Analysis (EDA) on data related to Microsoft's new movie studio. The analysis is focused on understanding key insights and trends in the movie industry, identifying potential opportunities, and providing data-driven recommendations for Microsoft's entry into the market.
 
 Data Sources
